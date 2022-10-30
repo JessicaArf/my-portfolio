@@ -1,8 +1,8 @@
-import "./about.css"
+import "./About.css"
 
 export const About = () => {
   return (
-    <div>About</div>
+    <section className="about container section" id="about"></section>
   )
 }
 

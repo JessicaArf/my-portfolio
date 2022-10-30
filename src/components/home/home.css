@@ -49,6 +49,7 @@ text-align: center;
     bottom: 2.5rem;
     left: 0;
     width: 100%;
+    font-weight: var(--font-medium);
 }
 
 .home__scroll-name {
