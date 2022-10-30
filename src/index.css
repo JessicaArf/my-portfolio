@@ -100,7 +100,6 @@ img {
 /* CSS classes  */
 
 .container {
-max-width: 1080px;
 padding-left: 15px;
 padding-right: 15px;
 margin: 0 auto;
@@ -152,7 +151,6 @@ margin: 0 auto;
     100% {
       transform: scale(1);
     }
-
 }
 
 .btn:hover {
