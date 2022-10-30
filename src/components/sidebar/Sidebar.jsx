@@ -1,11 +1,11 @@
-import "./sidebar.css"
+import "./Sidebar.css"
 import Logo from "../../assets/logo.svg"
 
 export const Sidebar = () => {
     return (
         <aside className="aside">
             <a href="#home" className="nav__logo">
-                <img src={Logo}alt="logo"/>
+                <img src={Logo} alt="logo"/>
             </a>
             <nav className="nav">
                 <div className="nav__menu">
@@ -47,7 +47,7 @@ export const Sidebar = () => {
                 </div>
             </nav>
             <div className="nav__footer">
-              <span className="copyright"> &copy; 2022 - 2023</span>
+              <span className="copyright"> &copy; 2022</span>
             </div>
 
 
