@@ -1,7 +1,11 @@
-import "./resume.css"
+import "./Resume.css"
 
 export const Resume = () => {
   return (
-    <div>resume</div>
+    <section className="resume container section" id="resume">
+      <h2 className="section__title">
+        
+      </h2>
+    </section>
   )
 }
